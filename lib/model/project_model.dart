@@ -7,19 +7,37 @@ class Project {
 }
 
 List<Project> projectList = [
-  //Extract Text from Image
-  Project(
-    'Extract Text from Image',
-    'A Flutter app that allows users to extract text from images using Google ML Kit, upload the image to Firebase Storage, and save records in Firestore Cloud. The app also includes a payment page for adding additional details.',
-     // 'assets/images/coffee.png',
-    '',
-  ),
-
   Project(
     'NCERT Class 12 App',
     'Developed and published a comprehensive mobile application on the Play Store featuring all NCERT Class 12 books.Integrated features such as PDF download, share options, dark mode/light mode support, and an add-to-favorites functionality.',
     // 'assets/images/coffee.png',
     'https://play.google.com/store/apps/details?id=com.avtechky.ncert_12_class',
+  ),
+  Project(
+    'NCERT Class 11 App',
+    'Developed and published a comprehensive mobile application on the Play Store featuring all NCERT Class 11 books.Integrated features such as PDF download, share options, dark mode/light mode support, and an add-to-favorites functionality.',
+    // 'assets/images/coffee.png',
+    'https://play.google.com/store/apps/details?id=com.avtechky.ncert_11_class',
+  ),
+  Project(
+    'NCERT Class 10 App',
+    'Developed and published a comprehensive mobile application on the Play Store featuring all NCERT Class 10 books.Integrated features such as PDF download, share options, dark mode/light mode support, and an add-to-favorites functionality.',
+    // 'assets/images/coffee.png',
+    'https://play.google.com/store/apps/details?id=com.avtechky.class_10_ncert',
+  ),
+  Project(
+    'NCERT Class 9 App',
+    'Developed and published a comprehensive mobile application on the Play Store featuring all NCERT Class 9 books.Integrated features such as PDF download, share options, dark mode/light mode support, and an add-to-favorites functionality.',
+    // 'assets/images/coffee.png',
+    'https://play.google.com/store/apps/details?id=com.avtechky.class_9_ncert',
+  ),
+
+  //Extract Text from Image
+  Project(
+    'Extract Text from Image',
+    'A Flutter app that allows users to extract text from images using Google ML Kit, upload the image to Firebase Storage, and save records in Firestore Cloud. The app also includes a payment page for adding additional details.',
+    // 'assets/images/coffee.png',
+    '',
   ),
   Project(
     'E-Commerce-Application',
