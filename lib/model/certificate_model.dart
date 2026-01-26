@@ -16,15 +16,15 @@ class CertificateModel {
 
 List<CertificateModel> certificateList = [
   CertificateModel(
-    name: 'Flutter Development',
+    name: 'Flutter Developer',
     organization: 'Xzect Labs Private Limited',
-    date: 'Dec 2023',
+    date: ' April 2024 - Sept 2024',
     skills: 'Flutter . iOS Development . Android Development',
     credential:
-        'https://drive.google.com/file/d/1Cc2zqVl_uus8Dld-92QJ-336JcojEGqT/view?usp=sharing',
+        'https://drive.google.com/file/d/1awJwr_ivDgES5yfo6KE_wpCdn7ebnefy/view?usp=sharing',
   ),
   CertificateModel(
-    name: 'Web development',
+    name: 'Web Developer',
     organization: 'Encryptix',
     date: 'Sep 2023 - Oct 2023',
     skills: 'HTML5 , Css , JavaScript',
